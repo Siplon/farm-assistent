@@ -1,7 +1,7 @@
 var version = "1.13.1 Fixed By Siplon";
 var scriptName = "LA Enhancer (1.13.1) - Fixed by Siplon";
 var scriptURL = "https://scripts.ibragonza.nl/enhancer/";
-var updateNotesURL = "https://forum.tribalwars.net/index.php?threads/ntoombs19s-fa-filter.266604/page-15#post-7053294";
+var updateNotesURL = "#";
 var working = true;
 var resourcesLoaded = false;
 var scriptLoaded = false;
